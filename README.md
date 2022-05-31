@@ -4,7 +4,6 @@ Trying to understand how Celery functions
 
 ## Concepts
 
-- [ ]
 - [x]
 - [ ]
 - [ ]
